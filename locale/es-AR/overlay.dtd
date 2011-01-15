@@ -1,10 +1,10 @@
-<!ENTITY mpwgen.title "Generador Mágico de Contraseñas">
-<!ENTITY mpwgen.accesskey "M">
-<!ENTITY mpwgen.mpass "Contraseña Mágica">
+<!ENTITY mpwgen.title "Generador mágico de contraseñas">
+<!ENTITY mpwgen.accesskey "m">
+<!ENTITY mpwgen.mpass "Contraseña mágica">
 <!ENTITY mpwgen.options "Opciones">
-<!ENTITY mpwgen.username "Nombre de Usuario">
-<!ENTITY mpwgen.email "Email">
-<!ENTITY mpwgen.disablePasswordRemember "Recordar Deshabilitar Contraseñas">
-<!ENTITY mpwgen.masterPrompt "Contraseña Maestra?">
-<!ENTITY mpwgen.remember "Remember (for this session)">
-<!ENTITY mpwgen.rememberDefault "Remember (by default)">
+<!ENTITY mpwgen.username "Nombre de usuario">
+<!ENTITY mpwgen.email "Correo electrónico">
+<!ENTITY mpwgen.disablePasswordRemember "Desactivar recordar contraseñas">
+<!ENTITY mpwgen.masterPrompt "¿Contraseña maestra?">
+<!ENTITY mpwgen.remember "Recordar (para esta sesión)">
+<!ENTITY mpwgen.rememberDefault "Recordar (por defecto)">

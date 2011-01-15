@@ -3,8 +3,8 @@
 <!ENTITY mpwgen.mpass "Magic Password">
 <!ENTITY mpwgen.options "Opções">
 <!ENTITY mpwgen.username "Nome de Usuário">
-<!ENTITY mpwgen.email "Email">
+<!ENTITY mpwgen.email "E-mail">
 <!ENTITY mpwgen.disablePasswordRemember "Desabilita Lembrança de Senha">
-<!ENTITY mpwgen.masterPrompt "Senha Master?">
-<!ENTITY mpwgen.remember "Remember (for this session)">
-<!ENTITY mpwgen.rememberDefault "Remember (by default)">
+<!ENTITY mpwgen.masterPrompt "Senha mestre?">
+<!ENTITY mpwgen.remember "Relembrar (para essa sessão)">
+<!ENTITY mpwgen.rememberDefault "Relembrar (default)">

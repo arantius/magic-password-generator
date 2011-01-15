@@ -2,9 +2,9 @@
 <!ENTITY mpwgen.accesskey "М">
 <!ENTITY mpwgen.mpass "Пароль">
 <!ENTITY mpwgen.options "Налаштування">
-<!ENTITY mpwgen.username "Ім&apos;я користувача">
+<!ENTITY mpwgen.username "Ім’я користувача">
 <!ENTITY mpwgen.email "Електронна адреса">
 <!ENTITY mpwgen.disablePasswordRemember "Заборонити збереження паролей">
 <!ENTITY mpwgen.masterPrompt "Основний пароль?">
-<!ENTITY mpwgen.remember "Remember (for this session)">
-<!ENTITY mpwgen.rememberDefault "Remember (by default)">
+<!ENTITY mpwgen.remember "Пам’ятати (для цього сеансу)">
+<!ENTITY mpwgen.rememberDefault "Пам’ятати (типово)">

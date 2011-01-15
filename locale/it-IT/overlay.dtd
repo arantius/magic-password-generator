@@ -2,9 +2,9 @@
 <!ENTITY mpwgen.accesskey "M">
 <!ENTITY mpwgen.mpass "Magic Password Generator">
 <!ENTITY mpwgen.options "Opzioni">
-<!ENTITY mpwgen.username "Nome utente">
-<!ENTITY mpwgen.email "E-mail">
+<!ENTITY mpwgen.username "Nome utente:">
+<!ENTITY mpwgen.email "E-mail:">
 <!ENTITY mpwgen.disablePasswordRemember "Disattiva la memorizzazione della password">
-<!ENTITY mpwgen.masterPrompt "Password principale">
-<!ENTITY mpwgen.remember "Ricorda per questa sessione">
-<!ENTITY mpwgen.rememberDefault "Ricorda come predefinito">
+<!ENTITY mpwgen.masterPrompt "Password principale:">
+<!ENTITY mpwgen.remember "Ricorda per la sessione attuale">
+<!ENTITY mpwgen.rememberDefault "Ricorda sempre per la sessione attuale">

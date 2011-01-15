@@ -1,0 +1,10 @@
+<!ENTITY mpwgen.title "Чаробни генератор лозинки">
+<!ENTITY mpwgen.accesskey "Ч">
+<!ENTITY mpwgen.mpass "Чаробна лозинка">
+<!ENTITY mpwgen.options "Опције">
+<!ENTITY mpwgen.username "Корисничко име">
+<!ENTITY mpwgen.email "Е-адреса">
+<!ENTITY mpwgen.disablePasswordRemember "Искључи памћење лозинки">
+<!ENTITY mpwgen.masterPrompt "Главна лозинка?">
+<!ENTITY mpwgen.remember "Запамти (за ову сесију)">
+<!ENTITY mpwgen.rememberDefault "Запамти (подразумевано)">

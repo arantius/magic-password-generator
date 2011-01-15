@@ -6,5 +6,5 @@
 <!ENTITY mpwgen.email "Sähköposti">
 <!ENTITY mpwgen.disablePasswordRemember "Ota pois käytöstä Salasanan muisto">
 <!ENTITY mpwgen.masterPrompt "Pää Salasana?">
-<!ENTITY mpwgen.remember "Remember (for this session)">
-<!ENTITY mpwgen.rememberDefault "Remember (by default)">
+<!ENTITY mpwgen.remember "Muista (tämä istunto)">
+<!ENTITY mpwgen.rememberDefault "Muista (oletus)">

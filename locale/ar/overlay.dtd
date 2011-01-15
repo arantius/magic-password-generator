@@ -1,0 +1,10 @@
+<!ENTITY mpwgen.title "مولد كلمة السر السحرية">
+<!ENTITY mpwgen.accesskey "M">
+<!ENTITY mpwgen.mpass "كلمة السر السحرية">
+<!ENTITY mpwgen.options "خيارات">
+<!ENTITY mpwgen.username "اسم المستخدم">
+<!ENTITY mpwgen.email "البريد الالكتروني">
+<!ENTITY mpwgen.disablePasswordRemember "تعطيل تذكر كلمة السر">
+<!ENTITY mpwgen.masterPrompt "كلمة السر الرئيسية ؟">
+<!ENTITY mpwgen.remember "تذكر (لهذه الجلسة )">
+<!ENTITY mpwgen.rememberDefault "تذكر (افتراضي)">

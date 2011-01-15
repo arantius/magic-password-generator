@@ -1,0 +1,10 @@
+<!ENTITY mpwgen.title "Магичен Генератор на Лозинки">
+<!ENTITY mpwgen.accesskey "М">
+<!ENTITY mpwgen.mpass "Магична Лозинка">
+<!ENTITY mpwgen.options "Опции">
+<!ENTITY mpwgen.username "Корисничко име">
+<!ENTITY mpwgen.email "Email">
+<!ENTITY mpwgen.disablePasswordRemember "Оневозможи го памтењето на лозинките">
+<!ENTITY mpwgen.masterPrompt "Главна Лозинка?">
+<!ENTITY mpwgen.remember "Запамти (за оваа сесија)">
+<!ENTITY mpwgen.rememberDefault "Запамти (зададено)">
