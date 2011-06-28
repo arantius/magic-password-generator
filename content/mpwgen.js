@@ -121,8 +121,6 @@ findFieldType:function(win, el) {
     return 'submit';
   }
 
-  var userScore=0;
-  var emailScore=0;
   var label=null;
 
   // Find label text.
