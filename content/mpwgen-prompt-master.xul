@@ -4,24 +4,24 @@
 
 <!-- the "B" is to ensure persisted height/width from old version isn't used -->
 <dialog id="mpwgen-prompt-masterB"
-	xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"
-	title="&mpwgen.title;"
-	buttons="accept, cancel"
-	onload="mpwgen.promptLoad();"
-	ondialogaccept="mpwgen.promptAccept();"
-	persist="screenX screenY"
+  xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"
+  title="&mpwgen.title;"
+  buttons="accept, cancel"
+  onload="mpwgen.promptLoad();"
+  ondialogaccept="mpwgen.promptAccept();"
+  persist="screenX screenY"
 >
-	<script type='application/x-javascript' src='chrome://mpwgen/content/mpwgen.js'></script>
+  <script type='application/x-javascript' src='chrome://mpwgen/content/mpwgen.js'></script>
 
-	<groupbox align="center" orient="horizontal">
-		<vbox>
-			<text value="&mpwgen.masterPrompt;" style="font-weight: bold; font-size: x-large;" />
-			<textbox type='password' id='master-pw' />
-			<checkbox id='remember' label='&mpwgen.remember;' />
-		</vbox>
-		<spring flex="1" style='padding-left: 9px;' />
-		<image src="chrome://mpwgen/skin/em-icon.png" />
-	</groupbox>
+  <groupbox align="center" orient="horizontal">
+    <vbox>
+      <text value="&mpwgen.masterPrompt;" style="font-weight: bold; font-size: x-large;" />
+      <textbox type='password' id='master-pw' />
+      <checkbox id='remember' label='&mpwgen.remember;' />
+    </vbox>
+    <spring flex="1" style='padding-left: 9px;' />
+    <image src="chrome://mpwgen/skin/em-icon.png" />
+  </groupbox>
 
-	<spacer flex="1" />
+  <spacer flex="1" />
 </dialog>

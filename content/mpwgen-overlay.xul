@@ -6,25 +6,25 @@
 <script type='application/x-javascript' src='chrome://mpwgen/content/mpwgen.js'></script>
 
 <toolbarpalette id='BrowserToolbarPalette'>
-	<toolbarbutton id='tb-mpwgen' oncommand='mpwgen.run()'
-		class='toolbarbutton-1'
-		label='&mpwgen.mpass;' tooltiptext='&mpwgen.mpass;'
-	/>
+  <toolbarbutton id='tb-mpwgen' oncommand='mpwgen.run()'
+    class='toolbarbutton-1'
+    label='&mpwgen.mpass;' tooltiptext='&mpwgen.mpass;'
+  />
 </toolbarpalette>
 
 <popup id='contentAreaContextMenu'>
-	<menuitem id='mpwgen-context' hidden='true' oncommand='mpwgen.run()'
-		label='&mpwgen.title;...' accesskey='&mpwgen.accesskey;'
-		image='chrome://mpwgen/skin/tb-icon-small.png' class='menuitem-iconic'
-	/>
+  <menuitem id='mpwgen-context' hidden='true' oncommand='mpwgen.run()'
+    label='&mpwgen.title;...' accesskey='&mpwgen.accesskey;'
+    image='chrome://mpwgen/skin/tb-icon-small.png' class='menuitem-iconic'
+  />
 </popup>
 
 <keyset id='mainKeyset'>
-	<key id='mpwgen-key-shortcut'
-		modifiers='control alt'
-		key='&mpwgen.accesskey;'
-		oncommand='mpwgen.run()'
-	/>
+  <key id='mpwgen-key-shortcut'
+    modifiers='control alt'
+    key='&mpwgen.accesskey;'
+    oncommand='mpwgen.run()'
+  />
 </keyset>
 
 </overlay>

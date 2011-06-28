@@ -1,22 +1,22 @@
 <?xml version="1.0"?>
 <RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:em="http://www.mozilla.org/2004/em-rdf#">
-	<Description about="urn:mozilla:install-manifest">
-		<em:id>{afb4d196-e762-4d4c-a74d-d5ac21475f62}</em:id>
-		<em:name>Magic Password Generator</em:name>
-		<em:version>1.5.3</em:version>
-		<em:description>Magically make custom passwords for each website.</em:description>
-		<em:creator>Anthony Lieuallen</em:creator>
+  <Description about="urn:mozilla:install-manifest">
+    <em:id>{afb4d196-e762-4d4c-a74d-d5ac21475f62}</em:id>
+    <em:name>Magic Password Generator</em:name>
+    <em:version>1.5.3</em:version>
+    <em:description>Magically make custom passwords for each website.</em:description>
+    <em:creator>Anthony Lieuallen</em:creator>
 
-		<em:homepageURL>http://trac.arantius.com/wiki/Extensions/MagicPasswordGenerator</em:homepageURL>
-		<em:iconURL>chrome://mpwgen/skin/em-icon.png</em:iconURL>
-		<em:optionsURL>chrome://mpwgen/content/mpwgen-options.xul</em:optionsURL>
+    <em:homepageURL>http://trac.arantius.com/wiki/Extensions/MagicPasswordGenerator</em:homepageURL>
+    <em:iconURL>chrome://mpwgen/skin/em-icon.png</em:iconURL>
+    <em:optionsURL>chrome://mpwgen/content/mpwgen-options.xul</em:optionsURL>
 
-		<em:targetApplication>
-			<Description>
-				<em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
-				<em:minVersion>2.0</em:minVersion>
-				<em:maxVersion>4.0.*</em:maxVersion>
-			</Description>
-		</em:targetApplication>
-	</Description>
+    <em:targetApplication>
+      <Description>
+        <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
+        <em:minVersion>2.0</em:minVersion>
+        <em:maxVersion>4.0.*</em:maxVersion>
+      </Description>
+    </em:targetApplication>
+  </Description>
 </RDF>

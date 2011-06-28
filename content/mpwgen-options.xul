@@ -3,38 +3,38 @@
 <?xml-stylesheet href="chrome://browser/skin/" type="text/css"?>
 
 <dialog id="mpwgen-options"
-	xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"
-	title="&mpwgen.title; - &mpwgen.options;"
-	buttons="accept, cancel"
-	onload="mpwgen.loadOptions();"
-	ondialogaccept="mpwgen.saveOptions();"
-	persist="width height screenX screenY"
+  xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"
+  title="&mpwgen.title; - &mpwgen.options;"
+  buttons="accept, cancel"
+  onload="mpwgen.loadOptions();"
+  ondialogaccept="mpwgen.saveOptions();"
+  persist="width height screenX screenY"
 >
-	<script type="application/x-javascript" src="chrome://mpwgen/content/mpwgen.js"></script>
+  <script type="application/x-javascript" src="chrome://mpwgen/content/mpwgen.js"></script>
 
-	<groupbox align="center" orient="horizontal">
-	<vbox>
-		<text value="&mpwgen.title;" style="font-weight: bold; font-size: x-large;" />
-		<separator class="thin" />
-		
-		<label value="&mpwgen.username;" control="mpwgen-username" flex="1" />
-		<textbox id="mpwgen-username" prefstring="mpwgen.username" />
-		<separator class="thin" />
+  <groupbox align="center" orient="horizontal">
+  <vbox>
+    <text value="&mpwgen.title;" style="font-weight: bold; font-size: x-large;" />
+    <separator class="thin" />
 
-		<label value="&mpwgen.email;" control="mpwgen-email" flex="1" />
-		<textbox id="mpwgen-email" prefstring="mpwgen.email" />
-		<separator class="thin" />
+    <label value="&mpwgen.username;" control="mpwgen-username" flex="1" />
+    <textbox id="mpwgen-username" prefstring="mpwgen.username" />
+    <separator class="thin" />
 
-		<vbox>
-			<checkbox id='mpwgen-autoCompOff'
-				prefstring="mpwgen.autoCompOff" 
-				label="&mpwgen.disablePasswordRemember;"
-			/>
-			<checkbox id='mpwgen-rememberDefault'
-				prefstring="mpwgen.rememberDefault" 
-				label="&mpwgen.rememberDefault;"
-			/>
-		</vbox>
-	</vbox>
-	</groupbox>
+    <label value="&mpwgen.email;" control="mpwgen-email" flex="1" />
+    <textbox id="mpwgen-email" prefstring="mpwgen.email" />
+    <separator class="thin" />
+
+    <vbox>
+      <checkbox id='mpwgen-autoCompOff'
+        prefstring="mpwgen.autoCompOff"
+        label="&mpwgen.disablePasswordRemember;"
+      />
+      <checkbox id='mpwgen-rememberDefault'
+        prefstring="mpwgen.rememberDefault"
+        label="&mpwgen.rememberDefault;"
+      />
+    </vbox>
+  </vbox>
+  </groupbox>
 </dialog>
