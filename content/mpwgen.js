@@ -150,7 +150,7 @@ findFieldType:function(win, el) {
       el.appendChild(tmptxt);
 
       // Look for 20 (non whitespace) chars before that marker.
-      var txt=win.document.body.textContent.replace(/\s+/g, ' ');
+      txt=win.document.body.textContent.replace(/\s+/g, ' ');
       var pos=txt.indexOf(tmpid);
       txt=txt.substring(pos-20, pos);
 
