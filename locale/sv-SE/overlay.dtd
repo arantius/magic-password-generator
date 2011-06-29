@@ -1,0 +1,10 @@
+<!ENTITY mpwgen.title "Magic Password Generator">
+<!ENTITY mpwgen.accesskey "M">
+<!ENTITY mpwgen.mpass "Magiskt lösenord">
+<!ENTITY mpwgen.options "Inställningar">
+<!ENTITY mpwgen.username "Användarnamn">
+<!ENTITY mpwgen.email "E-post">
+<!ENTITY mpwgen.disablePasswordRemember "Inaktivera lösenordslagring">
+<!ENTITY mpwgen.masterPrompt "Huvudlösenord?">
+<!ENTITY mpwgen.remember "Kom ihåg (under denna session)">
+<!ENTITY mpwgen.rememberDefault "Kom ihåg (som standard)">
